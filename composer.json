@@ -1,4 +1,11 @@
 {
     "require": {
+        "league/fractal": "^0.19.2",
+        "guzzlehttp/guzzle": "^7.0",
+        "league/oauth2-server": "^8.1",
+        "josegonzalez/dotenv": "^3.2",
+        "sidroberts/phalcon-authmiddleware": "^4.0"
+    },
+    "require-dev": {
     }
 }

@@ -1,2 +1,5 @@
 .idea/
 vendor/
+cache/
+app/storage/logs/
+app/env/.env
